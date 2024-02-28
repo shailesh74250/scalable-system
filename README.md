@@ -1,26 +1,26 @@
 # scalable-system
 
-## Vertical vs Horizontal scaling
+### Vertical vs Horizontal scaling
 - which to use for specific case
-## Load balancer
+### Load balancer
 ## Database selection 
 - which should be select SQL or NOSQL
-## Database Replication
-## Database scaling
-## Sharding data
+### Database Replication
+### Database scaling
+### Sharding data
 - Celebrity problem
 - Join and de-normalization 
-## Cache
+### Cache
 - Cache tier
-## CDN (Content Delivery Network)
-## Stateless web tier
-## Stateful web tier
-## Data centers
-## Message Queues
-## Logging
-## Metrics
-## Automation
-## MOntitoring
+### CDN (Content Delivery Network)
+### Stateless web tier
+### Stateful web tier
+### Data centers
+### Message Queues
+### Logging
+### Metrics
+### Automation
+### MOntitoring
 
 
 ## Summary 
