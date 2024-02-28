@@ -1,5 +1,8 @@
 # scalable-system
 
+### Server
+- Serverless Lambda
+- Server 
 ### Vertical vs Horizontal scaling
 - which to use for specific case
 ### Load balancer
